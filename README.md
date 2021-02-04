@@ -1,7 +1,10 @@
 
+The goal of this website is to play around with css and html concepts. I've started with some images my friends made for their band. I hope to end
+up with something that looks good and might help my friends perform more shows. 
 
 
 
+Things I want to add:
 
 Dear Mitch pt. 2
 
