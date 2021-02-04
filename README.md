@@ -1,4 +1,6 @@
 
+Did this last edit from the browser create a merge conflict? Never again!
+
 The goal of this website is to play around with css and html concepts. I've started with some images my friends made for their band. I hope to end
 up with something that looks good and might help my friends perform more shows. 
 
