@@ -1,0 +1,51 @@
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #75bdda;
+}
+
+header {
+    text-align: center;
+    
+    padding-top: 60px;
+}
+
+.main-nav {
+    width: 100%;
+    background: rgb(146, 81, 21);
+    min-height: 30px;
+    
+    background: url('img/orangutan.jpg') no-repeat top center ;
+    background-size: contain;
+    overflow: auto;
+    
+    padding: 5%;
+    position:fixed;
+    text-align:right;
+}
+
+.nav-title {
+    padding-top: 0%;
+    padding-bottom: 15px;
+}
+
+.band_name {
+    color:rgb(146, 81, 21);
+    background-color: black;
+    padding: 10px;
+}
+
+.band-pic {
+    width: 75%;
+    max-width: 500px;
+    height:auto;
+
+}
+
+.jar {
+    
+}
